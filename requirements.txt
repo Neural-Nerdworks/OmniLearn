@@ -1,9 +1,0 @@
-numpy
-scipy
-Pillow
-matplotlib
-opencv-python
-pandas
-tensorflow
-keras
-kivy
